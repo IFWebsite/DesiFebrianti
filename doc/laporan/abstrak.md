@@ -1,0 +1,6 @@
+<h2 align="center">ABSTRAK</h2> 
+<i><p align="justify">
+Teknik Informatika merupakan jurusan yang akan menghasilkan lulusan yang dapat menganalisis, dan dapat menerjemahkan setiap permasalahan. Lulusannya bisa bersaing untuk memasuki dunia kerja dan memiliki daya analisis yang kuat. Jurusan Teknik Informatika identik dengan teknologi informasi, salah satu teknologi informasinya adalah internet. Sitem yang akan dibuat berupa Sistem Informasi Jurusan berbasis Web menggunakan CI(CodeIgniter). Sistem informasi ini berisi tentang informasi mahaiswa khususnya di Jurusan DIV Teknik Informatika, para staf dosen, kurikulum matakuliah, kegiatan mahasiswa, dan berita seputar kegiatan Jurusan Teknik Informatika. Dengan adanya aplikasi ini sebagai salah satu media komunikasi yang menyajikan informasi terupdate dan agar efektif dalam penyampaian informasi tentang jurusan. Pengolahan data sudah tersusun rapi, sehingga mudah untuk mendapatkan data yang relefan. Penyampaian informasi jadi lebih cepat karena menggunakan internet yang memiliki cakupan dan penyebaran informasi yang luas.
+</p>
+<br>
+Kata kunci : Teknik Informatika, Web, CI (Code Igniter) </i>
